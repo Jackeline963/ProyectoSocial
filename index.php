@@ -25,7 +25,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Menu</a>
+      <a class="navbar-brand" href="#"><img src="public/img/logouls.png" alt="logouls" class="center" style="width:20%;"> </a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -72,11 +72,6 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Salir <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Cerrar sesión</a></li>
-            <li><a href="#">Cambiar de administrador</a></li>
-            <li><a href="#">Cambiar de usuario</a></li>
-            <li><a href="#">Cambiar de operador</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">otro</a></li>
           </ul>
         </li>
       </ul>
@@ -122,7 +117,6 @@
     </a>
   </div>
 </div>
-</body
-<footer> Universidad Luterna Salvadoreña </footer>
+</body>
 </html>
 
